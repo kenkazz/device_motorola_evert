@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "remote",
+    "repository": "fjsanti/android_device_motorola_sdm660-common",
+    "target_path": "device/motorola/sdm660-common",
+    "revision": "lineage-16.0"
+  }
+]
