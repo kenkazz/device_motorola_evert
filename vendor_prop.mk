@@ -17,10 +17,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.camera.preview.ubwc=0 \
     video.disable.ubwc=1
 
-# Havoc
-PRODUCT_PROPERTY_OVERRIDES += \
-    ro.havoc.maintainer=fjsanti
-
 # Sensors
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.hardware.sensors=evert \
